@@ -3,7 +3,7 @@
 <img src="fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Feature graphic" style="display: block; margin: 0 auto 30px;">
 
 # Calculator You
-
+# vansh nagpal
 ### Calculator You is a beautiful calculator for solving simple tasks.
 
 
